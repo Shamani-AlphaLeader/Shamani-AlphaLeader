@@ -14,6 +14,11 @@ faço histórias em quadrinhos também no estilo mangá e tenho um projeto em de
 </div>
 <br>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shamani-AlphaLeader&show_icons=true&count_private=true&hide_border=true&title_color=5A1DA9&icon_color=5A1DA9&text_color=c9d1d9&bg_color=0d1117" alt="Gabril Duarte Melo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDuarte&layout=compact&hide_border=true&title_color=5A1DA9&text_color=5A1DA9&bg_color=0d1117" />
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shamani-AlphaLeader&bg_color=000000&color=5A1DA9&line=5A1DA9&point=5A1DA9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
