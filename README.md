@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A1DA9&height=120&section=header"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&weight=300&size=25&pause=1000&color=FF0240C8&random=false&width=435&lines=Konnichiwa%2C+pessoal!!!+;Me+chamo+Bruno%2C++mas...+;sou+conhecido+tamb%C3%A9m+por+Shamani.;Seja+muito+bem+vindo+ao+meu+perfil!!!;Gratid%C3%A3o+pelo+apoio.+Arigat%C3%B4!!!" alt="Typing SVG" /></a>
 <div>
 <p>Atualmente, sou aluno na Escola SENAI de Informática em São Caetano do Sul-SP. </p> 
@@ -15,6 +13,8 @@ faço histórias em quadrinhos também no estilo mangá e tenho um projeto em de
 <p>É UM ENORME PRAZER CONHECÊ-LOS!!! DOZO YOROSHIKU ONEGAISHIMASU!!!</p>
 </div>
 <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoFroes&bg_color=000000&color=5A1DA9&line=5A1DA9&point=5A1DA9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
